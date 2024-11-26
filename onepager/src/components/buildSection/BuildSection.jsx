@@ -18,10 +18,10 @@ const BuildSection = () => {
             <img src={Img1} alt="" />
             <div>
               <h3>Meditation Music</h3>
-              <p>Lorem, ipsum dolor sit amet consectetur
-                adipisicing elit. Impedit incidunt libero nemo,
-                eum totam dolore sed autem error
-                placeat laborum! Nam quaerat est quas hic.</p>
+              <p>Meditation music is music performed to aid in the practice of meditation. 
+              It can have a specific religious content, but also more recently has been associated 
+              with modern composers who use meditation techniques in their process of composition, 
+              or who compose such music with no particular religious group as a focus. The concept also includes music performed as an act of meditation..</p>
             </div>
           </div>
           

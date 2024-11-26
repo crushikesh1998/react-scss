@@ -1,4 +1,4 @@
-@import '../../styles/mixins.scss';
+@use '../../styles/mixins.scss' as  *;
 
 .price{
     padding-block: 1rem 3rem;
